@@ -1,0 +1,4 @@
+# Ferramentas de Aprendizagem Ativa
+google-notebooklm
+github-documentation
+prompt-engineering
